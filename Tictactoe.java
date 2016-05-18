@@ -20,7 +20,7 @@ public class Tictactoe extends JFrame {
     Tictactoe.setSize(600,600);
     Tictactoe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     Tictactoe.setLocationRelativeTo(null);
-    Tictactoe.setVisible(true); // nimic
+    Tictactoe.setVisible(true); 
     
     }
     
